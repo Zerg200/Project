@@ -1,0 +1,6 @@
+https://www.dailymotion.com/video/x63gmmc - Vuforia Augmented Reality Tutorial: Text Recognition
+https://github.com/kefniark/UnityBarcodeScanner - UnityBarcodeScanner
+https://forum.unity.com/threads/released-world-political-map-globe-edition.343245/ - World Political Map - Globe Edition
+https://answers.unity.com/questions/1229489/open-google-maps-with-address-in-unity.html - Open Google Maps with address in Unity
+https://developers.google.com/maps/documentation/gaming/example_scenes - Exemples de scènes pour le SDK Maps pour Unity
+https://docs.mapbox.com/unity/maps/guides/ - Maps SDK for Unity
